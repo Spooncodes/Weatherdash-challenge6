@@ -12,6 +12,7 @@ for (var i = 0; i < localStorage.length; i++) {
 
     cityName.append("<li>" + city + "</li>");
 }
+
 // Key count for local storage 
 var keyCount = 0;
 // Search button click event
